@@ -20,9 +20,8 @@ It was released a week prior to the film’s release, and this is <b> our editio
 
 ![](Screenshots/Desktop_6.jpg)
 
-</br>
-**************************************************************************************** 
-##### Tasks Distribution
+****************************************************************************************
+#### Tasks Distribution
 1- Map (Sherif)
 
 2- Map2 (Saeed)
