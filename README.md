@@ -1,4 +1,28 @@
 # Disney-s-Hercules-Game
+
+### Game Description 
+
+Disney’s Hercules, also known in Europe as Disney’s Action Game Featuring Hercules, </br> is a action video game for the PlayStation and Microsoft Windows, released on June 20, 1997 by Disney Interactive, </br> 
+based on the animated film of the same name. </br> 
+It was released a week prior to the film’s release, and this is <b> our edition </b>. </br>
+****************************************************************************************
+### Some Screenshots
+
+![](Screenshots/Desktop_1.jpg)
+
+![](Screenshots/Desktop_2.jpg)
+
+![](Screenshots/Desktop_3.jpg)
+
+![](Screenshots/Desktop_4.jpg)
+
+![](Screenshots/Desktop_5.jpg)
+
+![](Screenshots/Desktop_6.jpg)
+
+</br>
+**************************************************************************************** 
+##### Tasks Distribution
 1- Map (Sherif)
 
 2- Map2 (Saeed)
